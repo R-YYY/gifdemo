@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GifDemo</string>
+    <string name="test_string">测试的数据啊！！！</string>
 </resources>
